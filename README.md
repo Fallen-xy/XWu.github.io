@@ -1,1 +1,1 @@
-## Click: [CV of Xiangyu Wu](https://XWu.github.io/web/viewer.html)
+## Click: [CV of Xiangyu Wu](https://fallen-xy.github.io/XWu.github.io/web/viewer.html)
